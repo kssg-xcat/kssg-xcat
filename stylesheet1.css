@@ -49,7 +49,7 @@ body {
 .txt{
   width:80%;
   text-align: center;
-  display: inline-block;
+  margin:0 auto;
 }
 
 .container {
@@ -64,9 +64,6 @@ h1 {
   text-align: center;
 }
 
-.pro {
-  margin:0 auto;
-}
 
 .btn-container {
   margin-top: 70px;
