@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+  background-image: url(https://kssg-xcat.github.io/kssg-xcat/black-illustration-digital-art-abstract-artwork-text-blue-geometry-technology-circuitry-gray-aqua-line-number-screenshot-computer-wallpaper-font-160762.png);
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+ul {
+  list-style: none;
+}
+
+* {
+  color:white;
+  margin:0;
+  padding:0;
+}
+
+
+body {
+  height: 100%;
+
+}
+
+h1 {
+  padding-top:50px;
+  padding-bottom:30px;
+  text-align: center;
+}
+
+.txt{
+  width:80%;
+  text-align: center;
+  margin:0 auto;
+}
+
+
+.btn-container {
+  margin-top: 70px;
+  text-align: center;
+}
+
+
+.btn  {
+  background-color: green;
+  padding:15px 20px;
+  color: white;
+  display: inline-block;
+  opacity:0.8;
+  box-shadow: 0 7px rgba(255,255,255,0.8);
+}
+
+.btn:hover {
+  opacity:1;
+}
+
+.btn:active {
+  opacity:1;
+  box-shadow: none;
+  position: relative;
+  top:7px;
+}
